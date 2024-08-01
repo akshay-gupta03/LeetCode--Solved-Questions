@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
 ## Bit Manipulation
 |  |
 | ------- |
