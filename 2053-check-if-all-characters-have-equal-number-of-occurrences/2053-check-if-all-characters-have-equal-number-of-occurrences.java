@@ -1,6 +1,6 @@
 class Solution {
     public boolean areOccurrencesEqual(String s) {
-    int[] arr = new int[1001];
+    int[] arr = new int[27];
     for(int i=0;i<s.length();i++){
         arr[s.charAt(i)-'a']++;
     } 
