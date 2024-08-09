@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Brainteaser
 |  |
