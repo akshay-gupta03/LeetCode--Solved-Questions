@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0292-nim-game) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
