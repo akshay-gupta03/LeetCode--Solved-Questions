@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
