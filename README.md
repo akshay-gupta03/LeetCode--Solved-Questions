@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
