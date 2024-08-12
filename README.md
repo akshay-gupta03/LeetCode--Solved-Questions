@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [1205-defanging-an-ip-address](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1205-defanging-an-ip-address) |
+| [1944-truncate-sentence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1944-truncate-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
+| [1944-truncate-sentence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
