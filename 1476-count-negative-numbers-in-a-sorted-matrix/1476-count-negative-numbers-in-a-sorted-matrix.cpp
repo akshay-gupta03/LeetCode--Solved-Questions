@@ -1,5 +1,13 @@
 class Solution {
-private:
+public:
+    int countNegatives(vector<vector<int>>& grid) {
+        int cnt=0;
+        for (const auto& row : grid) {
+            cnt+=negative(row);
+        }    
+        return cnt;
+    }
+
     int negative(const vector<int>& row) {
         int s=0;
         int e=row.size()-1;
@@ -13,14 +21,5 @@ private:
             }
         }
         return row.size()-s;
-    }
-
-public:
-    int countNegatives(vector<vector<int>>& grid) {
-        int cnt=0;
-        for (const auto& row : grid) {
-            cnt+=negative(row);
-        }    
-        return cnt;
     }
 };
