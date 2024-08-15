@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
