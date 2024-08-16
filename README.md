@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0624-maximum-distance-in-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -185,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
