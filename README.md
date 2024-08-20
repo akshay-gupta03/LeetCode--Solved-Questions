@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0292-nim-game) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Brainteaser
