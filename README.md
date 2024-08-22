@@ -133,18 +133,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
