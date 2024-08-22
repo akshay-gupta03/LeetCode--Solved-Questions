@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0292-nim-game) |
@@ -165,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0338-counting-bits) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
