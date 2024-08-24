@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
