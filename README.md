@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
+| [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
+| [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
