@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0742-to-lower-case) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
