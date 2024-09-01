@@ -4,7 +4,6 @@ public:
     int max=0;
     for(int i=0;i<k;i++){
         max+=nums[i];
-        cout<<max<<endl;
     }
     int maxloc=max;
     for(int i=k;i<nums.size();i++){
