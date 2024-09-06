@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0054-spiral-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
 ## Stack
