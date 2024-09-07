@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0338-counting-bits) |
@@ -295,5 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
