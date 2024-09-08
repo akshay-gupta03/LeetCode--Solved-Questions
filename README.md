@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 ## Union Find
