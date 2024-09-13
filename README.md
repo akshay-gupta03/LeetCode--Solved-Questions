@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0338-counting-bits) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0046-permutations) |
