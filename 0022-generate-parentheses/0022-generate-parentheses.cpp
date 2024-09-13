@@ -1,20 +1,24 @@
 class Solution {
 public:
-    vector<string> generateParenthesis(int n) {
     vector<string> ans;
-    answer(n,n,"",ans);
+    vector<string> generateParenthesis(int n) {
+    answer(n,n,"");
     return ans;
     }
 
-    void answer(int open,int close,string s,vector<string> &ans){
+    void answer(int open,int close,string s){
         if(open==0 && close==0){
             ans.push_back(s);
         }
         if(open>0){
-            answer(open-1,close,s+'(',ans);
+            s.push_back('(');
+            answer(open-1,close,s);
+            s.pop_back();
         }
         if(close>open){
-            answer(open,close-1,s+')',ans);
+            s.push_back(')');
+            answer(open,close-1,s);
+            s.pop_back();
         }
     }
 };
