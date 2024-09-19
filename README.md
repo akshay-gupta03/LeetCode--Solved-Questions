@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0624-maximum-distance-in-arrays) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
