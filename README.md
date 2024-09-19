@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -350,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0148-sort-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
