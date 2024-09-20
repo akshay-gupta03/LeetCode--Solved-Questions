@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0055-jump-game) |
 | [0624-maximum-distance-in-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 ## Prefix Sum
