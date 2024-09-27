@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1028-interval-list-intersections) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1028-interval-list-intersections) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
