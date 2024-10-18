@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -430,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
