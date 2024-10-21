@@ -18,6 +18,7 @@ public:
     if(root==nullptr){
         return ans;
     }
+    bool left=true;
     while(q.empty()==false){
         int size=q.size();
         vector<int> inside;
@@ -25,7 +26,13 @@ public:
             TreeNode* temp=q.front();
             q.pop();
             if(temp!=nullptr){
-                inside.push_back(temp->val);
+                if(left==true){
+                        inside.push_back(temp->val);
+                } 
+                else{
+                    inside.push_back(temp->val);
+                    reverse(inside.begin(),inside.end());
+                }
             }
             if(temp->left!=nullptr){
                 q.push(temp->left);
