@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0742-to-lower-case) |
+| [0878-shifting-letters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0878-shifting-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1250-longest-common-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0792-binary-search) |
+| [0878-shifting-letters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0878-shifting-letters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2714-left-and-right-sum-differences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
