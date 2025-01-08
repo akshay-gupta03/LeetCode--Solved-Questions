@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3194-find-words-containing-character) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3379-score-of-a-string) |
 ## Array
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3194-find-words-containing-character) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -523,4 +526,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
