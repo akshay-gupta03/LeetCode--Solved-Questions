@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0952-word-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0952-word-subsets) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0742-to-lower-case) |
 | [0878-shifting-letters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1250-longest-common-subsequence) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
+| [0952-word-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
