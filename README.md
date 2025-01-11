@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3379-score-of-a-string) |
+| [3468-find-the-encrypted-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3468-find-the-encrypted-string) |
 ## Array
 |  |
 | ------- |
