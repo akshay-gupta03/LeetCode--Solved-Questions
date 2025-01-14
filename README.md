@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
