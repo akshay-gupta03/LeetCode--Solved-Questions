@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3568-find-the-key-of-the-numbers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3568-find-the-key-of-the-numbers) |
 ## String
 |  |
 | ------- |
