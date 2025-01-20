@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0412-fizz-buzz) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1250-longest-common-subsequence) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Matrix
 |  |
 | ------- |
