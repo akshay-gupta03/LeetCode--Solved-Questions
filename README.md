@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
+| [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2714-left-and-right-sum-differences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
+| [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Stack
 |  |
 | ------- |
