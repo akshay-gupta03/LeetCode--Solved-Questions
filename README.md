@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2145-grid-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
+| [2145-grid-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Stack
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2145-grid-game) |
 | [2714-left-and-right-sum-differences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 ## Breadth-First Search
 |  |
