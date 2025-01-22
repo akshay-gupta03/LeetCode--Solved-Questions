@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1848-sum-of-unique-elements) |
+| [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0542-01-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Stack
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
 ## Divide and Conquer
 |  |
 | ------- |
