@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0088-merge-sorted-array) |
