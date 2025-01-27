@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1558-course-schedule-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
 ## Divide and Conquer
 |  |
@@ -585,12 +587,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1558-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1558-course-schedule-iv) |
 ## Design
 |  |
 | ------- |
