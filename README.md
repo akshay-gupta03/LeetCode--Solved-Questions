@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2714-left-and-right-sum-differences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
 |  |
