@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0344-reverse-string) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0088-merge-sorted-array) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
