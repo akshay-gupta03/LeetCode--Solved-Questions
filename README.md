@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1848-sum-of-unique-elements) |
 | [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
