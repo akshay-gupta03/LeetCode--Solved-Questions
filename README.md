@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
