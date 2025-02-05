@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1848-sum-of-unique-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1944-truncate-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
