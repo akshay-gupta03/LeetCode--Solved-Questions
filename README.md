@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3468-find-the-encrypted-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3468-find-the-encrypted-string) |
 ## Array
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
