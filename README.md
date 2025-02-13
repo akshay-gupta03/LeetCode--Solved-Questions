@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3429-special-array-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3447-clear-digits) |
 ## Trie
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [2434-design-a-number-container-system](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2434-design-a-number-container-system) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
