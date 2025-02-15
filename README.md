@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
 | ------- |
