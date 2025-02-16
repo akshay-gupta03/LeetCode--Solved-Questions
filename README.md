@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1848-sum-of-unique-elements) |
 | [1876-map-of-highest-peak](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
