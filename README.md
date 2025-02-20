@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
