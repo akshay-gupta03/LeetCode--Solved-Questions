@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1364-tuple-with-same-product) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1028-interval-list-intersections) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
