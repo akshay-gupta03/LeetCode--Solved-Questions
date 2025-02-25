@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1619-path-crossing](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1848-sum-of-unique-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1848-sum-of-unique-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1524-string-matching-in-an-array) |
+| [1619-path-crossing](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
