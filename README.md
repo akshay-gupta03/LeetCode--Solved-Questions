@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
