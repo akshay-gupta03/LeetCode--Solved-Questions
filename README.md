@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
