@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1028-interval-list-intersections) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
