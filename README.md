@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0647-palindromic-substrings) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1396-count-servers-that-communicate) |
