@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3312-number-of-changing-keys) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2502-sort-the-people) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
 |  |
 | ------- |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2509-minimize-xor) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
 |  |
 | ------- |
