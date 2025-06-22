@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2470-removing-stars-from-a-string) |
