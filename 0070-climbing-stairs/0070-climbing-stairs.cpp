@@ -1,20 +1,17 @@
 class Solution {
 public:
     int climbStairs(int n) {
-    int cnt1=1;
-    int cnt2=2;
-    int ans=0;
-    if(n==1){
-        return cnt1;
+    if(n==1 || n==2){
+        return n;
     }
-    if(n==2){
-        return cnt2;
-    }
+    int a=1;
+    int b=2; 
+    int c=0;
     for(int i=3;i<=n;i++){
-        ans=cnt1+cnt2;
-        cnt1=cnt2;
-        cnt2=ans;
+        c=a+b;
+        a=b;
+        b=c;
     }
-    return ans;
+    return c;
     }
 };
