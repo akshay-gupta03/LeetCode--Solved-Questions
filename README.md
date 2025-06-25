@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [2434-design-a-number-container-system](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2434-design-a-number-container-system) |
