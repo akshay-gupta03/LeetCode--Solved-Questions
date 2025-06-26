@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -480,11 +481,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2509-minimize-xor) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
