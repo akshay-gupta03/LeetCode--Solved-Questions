@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3468-find-the-encrypted-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3468-find-the-encrypted-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
 | ------- |
