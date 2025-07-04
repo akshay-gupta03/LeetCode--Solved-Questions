@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0242-valid-anagram) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0191-number-of-1-bits) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
