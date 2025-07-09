@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3639-zero-array-transformation-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3723-sum-of-good-numbers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3723-sum-of-good-numbers) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Matrix
 |  |
 | ------- |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2509-minimize-xor) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
