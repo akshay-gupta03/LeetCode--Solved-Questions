@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0975-range-sum-of-bst) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2434-design-a-number-container-system) |
@@ -821,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0729-my-calendar-i) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/2434-design-a-number-container-system) |
@@ -847,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Enumeration
 |  |
