@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0242-valid-anagram) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akshay-gupta03/LeetCode--Solved-Questions/tree/master/0143-reorder-list) |
